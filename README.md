@@ -1,7 +1,8 @@
-## Olá! Sou o Guilherme Rodrigues, Desenvolvedor Júnior apaixonado por tecnologia 🚀
+## Olá! Sou o Guilherme Rodrigues, Desenvolvedor Júnior!!🚀
 
 Meu foco é crescer em ambientes que incentivem o aprendizado contínuo, enfrentando desafios reais que me ajudem a evoluir como profissional. Busco aprimorar tanto minhas habilidades técnicas quanto minha visão estratégica para entregar soluções eficientes e de qualidade.
-  ##
+
+##
 <di>👨‍💻 Tecnologias</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
@@ -20,4 +21,10 @@ Meu foco é crescer em ambientes que incentivem o aprendizado contínuo, enfrent
 <div> 
   <a href = "mailto:guilhesirod@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-silveira-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+##
+<di>👾 Dashboards</div>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guirodrigues18&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=nord&hide_border=true&order=2" height="145" alt="languages graph"  />
 </div>

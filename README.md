@@ -1,6 +1,6 @@
-## Olá! Sou o Guilherme Rodrigues, Desenvolvedor Júnior!!🚀
+## Hello, my name is Guilherme🚀
 
-Meu foco é crescer em ambientes que incentivem o aprendizado contínuo, enfrentando desafios reais que me ajudem a evoluir como profissional. Busco aprimorar tanto minhas habilidades técnicas quanto minha visão estratégica para entregar soluções eficientes e de qualidade.
+Sou um desenvolvedor júnior de 21 anos, apaixonado por tecnologia e inovações.
 
 ##
 <di>👨‍💻 Tecnologias</div>
